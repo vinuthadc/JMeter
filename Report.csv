@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690480041164,1190,Request1,200,OK,Thread Group 1-1,text,true,,22555,220,2,2,https://www.google.com/,578,0,488
+1690480041164,578,Request1-0,301,Moved Permanently,Thread Group 1-1,text,true,,832,108,2,2,https://google.com/,578,0,488
+1690480041743,611,Request1-1,200,OK,Thread Group 1-1,text,true,,21723,112,2,2,https://www.google.com/,509,0,343
+1690480042171,1210,Request1,200,OK,Thread Group 1-2,text,true,,23391,220,2,2,https://www.google.com/,588,0,503
+1690480042171,588,Request1-0,301,Moved Permanently,Thread Group 1-2,text,true,,832,108,2,2,https://google.com/,588,0,503
+1690480042764,617,Request1-1,200,OK,Thread Group 1-2,text,true,,22559,112,2,2,https://www.google.com/,512,0,350
+1690480043163,1241,Request1,200,OK,Thread Group 1-3,text,true,,23349,220,2,2,https://www.google.com/,620,0,532
+1690480043163,620,Request1-0,301,Moved Permanently,Thread Group 1-3,text,true,,832,108,2,2,https://google.com/,620,0,532
+1690480043784,620,Request1-1,200,OK,Thread Group 1-3,text,true,,22517,112,2,2,https://www.google.com/,500,0,340
+1690480044164,1793,Request1,200,OK,Thread Group 1-4,text,true,,22653,220,2,2,https://www.google.com/,632,0,556
+1690480044164,632,Request1-0,301,Moved Permanently,Thread Group 1-4,text,true,,832,108,2,2,https://google.com/,632,0,556
+1690480044797,1160,Request1-1,200,OK,Thread Group 1-4,text,true,,21821,112,2,2,https://www.google.com/,603,0,423
+1690480045165,1512,Request1,200,OK,Thread Group 1-5,text,true,,22610,220,2,2,https://www.google.com/,347,0,273
+1690480045165,348,Request1-0,301,Moved Permanently,Thread Group 1-5,text,true,,832,108,2,2,https://google.com/,347,0,273
+1690480045513,1164,Request1-1,200,OK,Thread Group 1-5,text,true,,21778,112,2,2,https://www.google.com/,658,0,457
+1690480046164,1827,Request1,200,OK,Thread Group 1-6,text,true,,22612,220,2,2,https://www.google.com/,623,0,546
+1690480046164,623,Request1-0,301,Moved Permanently,Thread Group 1-6,text,true,,832,108,2,2,https://google.com/,623,0,546
+1690480046788,1203,Request1-1,200,OK,Thread Group 1-6,text,true,,21780,112,2,2,https://www.google.com/,781,0,612
+1690480047174,1004,Request1,200,OK,Thread Group 1-7,text,true,,22969,220,2,2,https://www.google.com/,323,0,245
+1690480047174,323,Request1-0,301,Moved Permanently,Thread Group 1-7,text,true,,832,108,2,2,https://google.com/,323,0,245
+1690480047498,680,Request1-1,200,OK,Thread Group 1-7,text,true,,22137,112,2,2,https://www.google.com/,576,0,411
+1690480048162,1324,Request1,200,OK,Thread Group 1-8,text,true,,22594,220,2,2,https://www.google.com/,570,0,489
+1690480048162,570,Request1-0,301,Moved Permanently,Thread Group 1-8,text,true,,832,108,2,2,https://google.com/,570,0,489
+1690480048733,753,Request1-1,200,OK,Thread Group 1-8,text,true,,21762,112,2,2,https://www.google.com/,610,0,446
+1690480049166,1226,Request1,200,OK,Thread Group 1-9,text,true,,22646,220,2,2,https://www.google.com/,654,0,574
+1690480049166,654,Request1-0,301,Moved Permanently,Thread Group 1-9,text,true,,832,108,2,2,https://google.com/,654,0,574
+1690480049821,571,Request1-1,200,OK,Thread Group 1-9,text,true,,21814,112,2,2,https://www.google.com/,509,0,342
+1690480050167,1319,Request1,200,OK,Thread Group 1-10,text,true,,22942,220,1,1,https://www.google.com/,343,0,259
+1690480050167,343,Request1-0,301,Moved Permanently,Thread Group 1-10,text,true,,832,108,1,1,https://google.com/,343,0,259
+1690480050511,975,Request1-1,200,OK,Thread Group 1-10,text,true,,22110,112,1,1,https://www.google.com/,831,0,631
